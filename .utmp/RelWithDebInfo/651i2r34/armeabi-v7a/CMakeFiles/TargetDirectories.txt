@@ -1,0 +1,5 @@
+C:/UnityProject/BoatRacing - Copy/.utmp/RelWithDebInfo/651i2r34/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/UnityProject/BoatRacing - Copy/.utmp/RelWithDebInfo/651i2r34/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/UnityProject/BoatRacing - Copy/.utmp/RelWithDebInfo/651i2r34/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/UnityProject/BoatRacing - Copy/.utmp/RelWithDebInfo/651i2r34/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/UnityProject/BoatRacing - Copy/.utmp/RelWithDebInfo/651i2r34/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

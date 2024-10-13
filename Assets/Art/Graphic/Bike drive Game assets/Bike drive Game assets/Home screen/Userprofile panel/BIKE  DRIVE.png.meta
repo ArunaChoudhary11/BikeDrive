@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: 3975efd3e6652304ca7f3b99a351a92f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7391344403993444182
+    second: BIKE  DRIVE_0
+  - first:
+      213: -8136575424419078905
+    second: BIKE  DRIVE_1
+  - first:
+      213: 8611004196404138670
+    second: BIKE  DRIVE_2
+  - first:
+      213: -1268915611943231697
+    second: BIKE  DRIVE_3
+  - first:
+      213: -6152324511205515131
+    second: BIKE  DRIVE_4
+  - first:
+      213: -2020733848659937101
+    second: BIKE  DRIVE_5
+  - first:
+      213: 5355519081364519118
+    second: BIKE  DRIVE_6
+  - first:
+      213: 7152116661313680988
+    second: BIKE  DRIVE_7
+  - first:
+      213: -8958831427990841274
+    second: BIKE  DRIVE_8
+  - first:
+      213: 5185049182204490322
+    second: BIKE  DRIVE_9
+  - first:
+      213: 6203253687464245777
+    second: BIKE  DRIVE_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BIKE  DRIVE_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 521
+        width: 262
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa04663fc6bac6990800000000000000
+      internalID: -7391344403993444182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIKE  DRIVE_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 830
+        width: 105
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dd35bc2c3151f80800000000000000
+      internalID: -8136575424419078905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIKE  DRIVE_2
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 546
+        width: 303
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2111e81be608770800000000000000
+      internalID: 8611004196404138670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIKE  DRIVE_3
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 553
+        width: 234
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f1d2459f7e36ee0800000000000000
+      internalID: -1268915611943231697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIKE  DRIVE_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 540
+        width: 103
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580aaa6147d8e9aa0800000000000000
+      internalID: -6152324511205515131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIKE  DRIVE_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 273
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8340d5549e4f3e0800000000000000
+      internalID: -2020733848659937101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIKE  DRIVE_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 266
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8fe80da30a25a40800000000000000
+      internalID: 5355519081364519118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIKE  DRIVE_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 310
+        width: 105
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5631cdb53c614360800000000000000
+      internalID: 7152116661313680988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIKE  DRIVE_8
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 30
+        width: 273
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648100c3846dba380800000000000000
+      internalID: -8958831427990841274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIKE  DRIVE_9
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 33
+        width: 233
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2527a3872cef4f740800000000000000
+      internalID: 5185049182204490322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIKE  DRIVE_10
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 20
+        width: 103
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a30fccc52661650800000000000000
+      internalID: 6203253687464245777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BIKE  DRIVE_0: -7391344403993444182
+      BIKE  DRIVE_1: -8136575424419078905
+      BIKE  DRIVE_10: 6203253687464245777
+      BIKE  DRIVE_2: 8611004196404138670
+      BIKE  DRIVE_3: -1268915611943231697
+      BIKE  DRIVE_4: -6152324511205515131
+      BIKE  DRIVE_5: -2020733848659937101
+      BIKE  DRIVE_6: 5355519081364519118
+      BIKE  DRIVE_7: 7152116661313680988
+      BIKE  DRIVE_8: -8958831427990841274
+      BIKE  DRIVE_9: 5185049182204490322
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
