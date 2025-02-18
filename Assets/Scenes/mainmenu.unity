@@ -6841,7 +6841,7 @@ MonoBehaviour:
   coins: {fileID: 1463851183}
   hightScore: {fileID: 793352722}
   diamonds: {fileID: 1913767663}
-  BtnClip: {fileID: 0}
+  BtnClip: {fileID: 8300000, guid: 8a2bd076067c47f469ee0dd4fcc292c6, type: 3}
   shop: {fileID: 459368260}
   shopOptionMenu: {fileID: 1119357651}
   diamondsBuyPanel: {fileID: 419404915}
